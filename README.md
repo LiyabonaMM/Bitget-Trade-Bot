@@ -1,0 +1,1 @@
+# Bitget-Trade-Bot
